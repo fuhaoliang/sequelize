@@ -1,0 +1,13 @@
+{
+  "name": "sequelize",
+  "version": "1.0.0",
+  "description": "sequelize学习",
+  "main": "index.js",
+  "repository": "https://github.com/fuhaoliang/sequelize.git",
+  "author": "付豪亮 <fuhl@fosun.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
